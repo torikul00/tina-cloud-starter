@@ -19,6 +19,10 @@
       {
         "href": "/posts",
         "label": "Blog"
+      },
+      {
+        "href": "pricing",
+        "label": "Pricing"
       }
     ]
   },
